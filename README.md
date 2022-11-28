@@ -5,12 +5,6 @@
         <img title="Devilish-Trio stats" alt="Devilish-Trio's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Devilish-Trio&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/Devilish-Trio"><img alt="Devilish-Trio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Devilish-Trio&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
-
-
-<h2 align="center">  
-	<img title="Devilish-Trio stats" alt="Devilish-Trio's streak" src="https://github-profile-trophy.vercel.app/?username=Devilish-Trio&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed"/>
-
 <h2 align="center">Discord profile init</h2><br>
   <p align="center">
     <a href="https://discord.gg/Zvut5jtCDz">
