@@ -7,6 +7,11 @@
 </p><br>
 <h2 align="center">About Me</h2><br>
   <p align="center"> 
+    <p align="center">
+    <a href="https://discord.gg/Zvut5jtCDz">
+        <img title="Illustrious discord" alt="Devilish-Trio's discord" src="https://discord.c99.nl/widget/theme-3/741322359708975154.png"/>
+    </a>
+</p><br>
   
   >​🇲​​🇾​ ​🇵​​🇪​​🇷​​🇸​​🇴​​🇳​​🇦​​🇱​ ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ ​🇦​​🇨​​🇨​​🇴​​🇺​​🇳​​🇹​. ​🇮​ ​🇱​​🇮​​🇰​​🇪​ ​🇹​​🇴​ ​🇲​​🇦​​🇰​​🇪​ ​🇵​​🇾​​🇹​​🇭​​🇴​​🇳​ ​🇸​​🇨​​🇷​​🇮​​🇵​​🇹​​🇸​ ​🇦​​🇳​​🇩​ ​🇨​#/​🇨​++ ​🇲​​🇴​​🇩​​🇸​, ​🇧​​🇺​​🇹​ ​🇮​ ​🇭​​🇦​​🇻​​🇪​ ​🇦​ ​🇫​​🇺​​🇹​​🇺​​🇷​​🇪​ ​🇮​​🇳​​🇹​​🇪​​🇷​​🇪​​🇸​​🇹​ ​🇮​​🇳​ ​🇫​​🇺​​🇱​​🇱​ ​🇸​​🇹​​🇦​​🇨​​🇰​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇮​​🇳​​🇬​              
   
@@ -15,13 +20,4 @@
 
 <p align="center">
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=ohbinary&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p><br>
-  <p align="center">
-    <a href="https://discord.gg/Zvut5jtCDz">
-        <img title="Illustrious discord" alt="Devilish-Trio's discord" src="https://discord.c99.nl/widget/theme-3/741322359708975154.png"/>
-    </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Devilish-Trio">
-   <img alt="Github" src="https://img.shields.io/github/followers/Devilish-Trio?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a> 
 </p>
