@@ -12,6 +12,8 @@
     </a>
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ohbinary&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ohbinary&redirect=true)
+
 <p align="center">
     <a href="https://discord.gg/Zvut5jtCDz">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-dismay%233913-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
