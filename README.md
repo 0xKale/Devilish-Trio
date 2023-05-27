@@ -1,5 +1,3 @@
-  <h2 align="center">GitHub Statistics </h2>
-
 <p align="center">
     <a href="https://github.com/Devilish-Trio">
         <img title="Devilish-Trio" src="https://media.tenor.com/teW802Rf-rIAAAAC/lain-serial-experiments-lain.gif"/>
