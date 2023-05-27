@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/Devilish-Trio">
-        <img title="Devilish-Trio stats" alt="Devilish-Trio's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Devilish-Trio&theme=dark&hide_border=true&stroke=f53b3b"/>
+        <img title="Devilish-Trio stats" alt="Devilish-Trio's streak" src="https://i.gifer.com/fetch/w300-preview/e7/e7faaf3431228107b0e1f53575229fe6.gif"/>
     </a>
 </p><br>
 <h2 align="center">About Me</h2><br>
