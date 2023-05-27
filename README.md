@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/Devilish-Trio">
-        <img title="Devilish-Trio stats" alt="Devilish-Trio's streak" src="https://i.gifer.com/fetch/w300-preview/e7/e7faaf3431228107b0e1f53575229fe6.gif"/>
+        <img title="Devilish-Trio" src="https://media.tenor.com/teW802Rf-rIAAAAC/lain-serial-experiments-lain.gif"/>
     </a>
 </p><br>
 <h2 align="center">About Me</h2><br>
