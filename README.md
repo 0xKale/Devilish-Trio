@@ -15,7 +15,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center"> 
-    <i>dont-delete-me.ko</i>
+    <i>dont-delete-me</i>
 </p>
 
 <p align="center">
@@ -37,8 +37,9 @@
 
 <h2 align="center">Current Groove</h2>
 
+<p align="center">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ohbinary&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p align="center">
+
     <i>"Three o'clock is always too late or too early for anything you want to do." -  Jean-Paul Sartre</i>
 </p>
