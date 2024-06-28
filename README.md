@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Devilish-Trio">
-        <img title="Devilish-Trio" src="https://media.tenor.com/teW802Rf-rIAAAAC/lain-serial-experiments-lain.gif" width="1000"/>
+        <img title="Devilish-Trio" src="https://media.tenor.com/teW802Rf-rIAAAAC/lain-serial-experiments-lain.gif" width="800"/>
     </a>
 </p>
 
