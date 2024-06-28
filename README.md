@@ -38,7 +38,7 @@
 <h2 align="center">Current Groove</h2>
 
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ohbinary&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
   </a>
