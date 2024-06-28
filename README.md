@@ -21,7 +21,7 @@
 <p align="center">
     🖥️ Passionate about programming in C++ and C#<br>
     📚 Avid reader of non-fiction and philosophy<br>
-    🤔 Always questioning, always learning
+    🤔 Always questioning, love learning
 </p>
 
 <h2 align="center">My Digital Footprint</h2>
