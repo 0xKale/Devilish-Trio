@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    🖥️ Passionate about programming in C++ and C#<br>
+    🖥️ Enjoy programming in C++ and C#<br>
     📚 Avid reader of non-fiction and philosophy<br>
 </p>
 
