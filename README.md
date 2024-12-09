@@ -23,17 +23,6 @@
     📚 non-fiction and philosophy<br>
 </p>
 
-<h2 align="center">My Digital Footprint</h2>
-
-<p align="center">
-    <a href="https://github.com/Devilish-Trio?tab=repositories">
-        <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-    </a>
-    <a href="https://github.com/Devilish-Trio?tab=stars">
-        <img src="https://img.shields.io/badge/Starred%20Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred Projects">
-    </a>
-</p>
-
 <h2 align="center">Current Groove</h2>
 
 
