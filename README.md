@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-    🖥️ Enjoy programming in C++ and C#<br>
-    📚 Avid reader of non-fiction and philosophy<br>
+    🖥️ C++<br>
+    📚 non-fiction and philosophy<br>
 </p>
 
 <h2 align="center">My Digital Footprint</h2>
