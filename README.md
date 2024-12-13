@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/Devilish-Trio">
-        <img title="Devilish-Trio" src="https://media.tenor.com/teW802Rf-rIAAAAC/lain-serial-experiments-lain.gif" width="666"/>
+    <a href="https://github.com/0xKale">
+        <img title="0xKale" src="https://media.tenor.com/teW802Rf-rIAAAAC/lain-serial-experiments-lain.gif" width="666"/>
     </a>
 </p>
 
@@ -16,7 +16,7 @@
     🖥️ C++<br>
 </p>
 
-<h2 align="center">Current Groove</h2>
+<h2 align="center">Spotify</h2>
 
 
 <p align="left">
