@@ -6,12 +6,6 @@
 
 <h1 align="center">Welcome</h1>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/Philosophy-8B4513?style=for-the-badge&logo=bookstack&logoColor=white" alt="Philosophy">
-</p>
-
 <h2 align="center">About Me</h2>
 
 <p align="center"> 
@@ -20,7 +14,6 @@
 
 <p align="center">
     🖥️ C++<br>
-    📚 non-fiction and philosophy<br>
 </p>
 
 <h2 align="center">Current Groove</h2>
